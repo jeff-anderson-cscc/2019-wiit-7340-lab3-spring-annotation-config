@@ -27,8 +27,14 @@ Instructions for completing the assignment:
     * Enter a proper comment
     * Uncheck "Perform code analysis"
 
-## Submitting your work
+## Hints from the Documentation
 
+1. The IoC Container
+    * [1.9.2. Using @Autowired](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans-autowired-annotation)
+    * [1.10.3. Automatically Detecting Classes and Registering Bean Definitions](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans-scanning-autodetection)
+    * [1.10.1. @Component and Further Stereotype Annotations](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans-stereotype-annotations)
+
+## Submitting your work
 
 1. Push your changes to GitHub, create a pull request, and ask for my review by following [these procedures](https://github.com/jeff-anderson-cscc/lab0-completing-and-submitting-assignments#push-your-changes-and-create-a-pull-request-for-grading)
 1. Once I have reviewed and approved your pull request, follow [these procedures](https://github.com/jeff-anderson-cscc/lab0-completing-and-submitting-assignments#once-your-pull-request-is-reviewed-and-approved) to submit your assignment in Blackboard
